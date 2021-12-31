@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Srihari Kurapati.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning front-end concepts of HTML, CSS, JS and Angular Framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
